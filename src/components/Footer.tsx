@@ -8,7 +8,7 @@ const Footer = () => {
         <Image src="/fb.svg" alt="fb-image" width={30} height={30} />
         <Image src="/instagram.svg" alt="insta-image" width={30} height={30} />
         <Image src="/twitter.svg" alt="twitter-image" width={30} height={30} />
-        <Image src="/linkedin.svg" alt="linkdin-image" width={30} height={30} />
+        <Image src="/Linkedin.svg" alt="linkedin-image" width={30} height={30} />
       </div>
 
       <div className="w-[354px] h-[32px] relative  top-[130px] left-[543px]">
@@ -16,7 +16,7 @@ const Footer = () => {
           className="font-heebo font-medium text-[22px] leading-[32.31px] text-black;
 "
         >
-          Copyright ©2020 All rights reserved{" "}
+          Copyright ©2020 All rights reserved
         </p>
       </div>
     </footer>
